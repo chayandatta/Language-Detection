@@ -49,6 +49,6 @@ Contributions are welcome! If you'd like to contribute, please follow the [contr
 
 ## License
 
-This project is licensed under the [CC0](LICENSE).
+This project is licensed under the [AGPL-3.0](LICENSE).
 
 Feel free to reach out with any questions or issues. Happy coding!
